@@ -11,3 +11,7 @@ Game Of Life configuration is cyclic if after some number of generations the con
  * Applying the logic of Game of Life is via the package `cellpylib`.
  * The network is using the package `NumPy` to manipulate and query the data.
  * MatplotLib  to display graph.
+ 
+ 
+ ![Training Performance](./performance.png)
+ 
